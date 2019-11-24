@@ -17,3 +17,4 @@ yarn dev
 ```
 ##### Open your browser 
 Your browser opened http://localhost:3000/
+##### The can use this app for understanding GraphQL
